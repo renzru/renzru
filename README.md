@@ -4,7 +4,9 @@ I'm passionate when it comes to learning; I'm always eager and open to learn new
 
 
 <h1 align="left">⚙️ Languages and Tools:</h1>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,java,blender,unity,ps,,pr,ae)](https://skillicons.dev)
 
 <h1>📫 Contact: </h1>
+
 📩 **Email:** renzrulandicho@gmail.com
