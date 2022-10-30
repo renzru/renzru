@@ -1,6 +1,6 @@
 <h1 align="left">🌱 Hi! </h1>
 <p align="left">My name is Renz Rudolf Landicho, and I'm a 15 y.o student currently studying Computer Science, and Full Stack Development alongside school.
-I'm passionate when it comes to learning; I'm always open to anything, most especially when it comes to learning new things! ✨ </p>
+I have a blazing passion for learning; I'm always open to anything, most especially when it comes to learning new things! ✨ </p>
 <br>
 
 <h1 align="left">💻 Languages and Tools:</h1>
