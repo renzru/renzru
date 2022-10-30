@@ -9,5 +9,6 @@ I have a blazing passion for learning; I'm always open to anything, most especia
 
 <br> <h1>📫 Contact: </h1>
 
-📩 **Email:** renzrulandicho@gmail.com
+📩 **Email:** renzrulandicho@gmail.com 
+<br>
 💬 **Discord:** renzru#0983 
