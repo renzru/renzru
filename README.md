@@ -9,7 +9,10 @@ I have a blazing passion for learning; I'm always open to anything, most especia
 💬 **Discord:** renzru#0983 
 <br>
 
-<h1 align="left">💻 Languages and Tools:</h1>
+<h1 align="left">💻 Languages:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,c,cs,cpp,java,blender,unity,ps,pr,ae)](https://skillicons.dev)
 
+<h1 align="left">💻 Software:</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=blender,unity,ps,pr,ae)](https://skillicons.dev)
