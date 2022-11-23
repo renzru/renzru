@@ -8,6 +8,7 @@ I have a blazing passion for learning; I'm always open to anything, most especia
 <br>
 💬 **Discord:** renzru#0983 
 <br>
+<br>
 
 <h1 align="left">💻 Languages:</h1>
 
