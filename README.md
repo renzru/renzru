@@ -11,7 +11,7 @@ I have a blazing passion for learning; I'm always open to anything, most especia
 
 <h1 align="left">💻 Languages:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,c,cs,cpp,java,blender,unity,ps,pr,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,c,cs,cpp,java](https://skillicons.dev)
 
 <h1 align="left">💻 Software:</h1>
 
