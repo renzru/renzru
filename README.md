@@ -16,4 +16,4 @@ I have a blazing passion for learning; I'm always open to anything, most especia
 
 <h1 align="left">💻 Software:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=blender,unity,ps,pr,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode, visualstudio, blender,unity,ps,pr,ae)](https://skillicons.dev)
