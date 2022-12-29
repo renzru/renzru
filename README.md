@@ -10,9 +10,9 @@ I have a blazing passion for learning; I'm always open to anything, most especia
 <br>
 <br>
 
-<h1 align="left">💻 Languages:</h1>
+<h1 align="left">💻 Languages & Tools:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,c,cs,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,c,cs,cpp,java,webpack,vite)](https://skillicons.dev)
 
 <h1 align="left">💻 Software:</h1>
 
