@@ -12,7 +12,7 @@ I have a blazing passion for learning; I'm always open to anything, most especia
 
 <h1 align="left">💻 Languages & Tools:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,svelte,html,css,sass,c,cs,cpp,java,webpack,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,svelte,vue,html,css,sass,c,cs,cpp,java,webpack,vite)](https://skillicons.dev)
 
 <h1 align="left">💻 Software:</h1>
 
