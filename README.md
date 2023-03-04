@@ -10,10 +10,19 @@ I have a blazing passion for learning; I'm always open to anything, most especia
 <br>
 <br>
 
-<h1 align="left">💻 Languages & Tools:</h1>
+<h2 align="left">Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,svelte,vue,tailwind,html,css,sass,c,cs,cpp,java,webpack,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,java)](https://skillicons.dev)
 
-<h1 align="left">💻 Software:</h1>
+
+<h2 align="left">Frameworks</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=svelte,vue,tailwind,sass)](https://skillicons.dev)
+
+<h2 align="left">Tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,vite,webpack)](https://skillicons.dev)
+
+<h2 align="left">Software:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,blender,unity,ps,pr,ae)](https://skillicons.dev)
