@@ -12,7 +12,7 @@ I have a blazing passion for learning; I'm always open to anything, most especia
 
 <h2 align="left">Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,lua,c,cs,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,lua,c,cs,cpp,java)](https://skillicons.dev)
 
 
 <h2 align="left">Frameworks</h2>
