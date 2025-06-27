@@ -2,10 +2,7 @@
 <p align="left">My name is Renz. I have a blazing passion for learning; I'm always open to anything, most especially when it comes to learning new things! ✨ </p>
 
 <h2>📫 Contact: </h2>
-
 📩 **Email:** renzrulandicho@gmail.com 
-<br>
-<br>
 <br>
 
 <h2 align="left">Languages</h2>
