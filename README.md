@@ -1,12 +1,10 @@
 <h2 align="left">🌱 Hi! </h2>
-<p align="left">My name is Renz, and I'm a 16 y.o student currently studying Computer Science, and Full Stack Development alongside school.
-I have a blazing passion for learning; I'm always open to anything, most especially when it comes to learning new things! ✨ </p>
+<p align="left">My name is Renz. I have a blazing passion for learning; I'm always open to anything, most especially when it comes to learning new things! ✨ </p>
 
 <h2>📫 Contact: </h2>
 
 📩 **Email:** renzrulandicho@gmail.com 
 <br>
-💬 **Discord:** renzru#0983 
 <br>
 <br>
 
